@@ -33,4 +33,7 @@ num1 = num2 = num3 = 2+2
 
 let gameCounter = 100
 gameCounter++;
-console.log(gameCoun)
+++gameCounter;
+console.log(gameCounter)
+
+// we can learn about prefix and postfix on mdn search prefix and postfix js mdn
