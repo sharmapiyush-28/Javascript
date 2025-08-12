@@ -59,3 +59,18 @@ const course = {
 
 const {courseInstructor: instructor} = course 
 console.log(instructor);
+
+//api json
+/*
+{
+    name: "Piyush",
+    coursename: "js in hindi",
+    price: "free"
+}
+*/
+
+[
+    {},
+    {},
+    {}
+]
