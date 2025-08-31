@@ -43,3 +43,7 @@ const addTwo = (num1, num2) => {
 
 const addTwo = (num1, num2) => ({username: "Piyush"})
 console.log(addTwo(9, 6));
+
+//const myArray = [2, 5, 3, 7, 8]
+
+//myArray.forEach(() => {})
